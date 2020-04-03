@@ -1,0 +1,30 @@
+{
+  "name": "@noud/express-hello-world",
+  "version": "1.0.0",
+  "description": "Express Hello World",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "run-node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+httSps://github.com/noud/express-hello-world.git"
+  },
+  "keywords": [
+    "Express",
+    "Node.js"
+  ],
+  "author": "Noud de Brouwer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noud/express-hello-world/issues"
+  },
+  "homepage": "https://github.com/noud/express-hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "run-node": "^2.0.0"
+  }
+}
